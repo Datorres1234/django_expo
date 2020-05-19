@@ -1,2 +1,3 @@
 # django_expo
-compartido para actividad 6
+
+Repositorio para actividad 6
